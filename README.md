@@ -2,7 +2,7 @@
 
 Single Layer Perceptron এর জন্য Activation Functions এর বেসিক concepts এবং intuition.
 
-## 📖 Topics Covered
+## Topics Covered
 
 ### Activation Functions
 - কেন Activation Function দরকার?
